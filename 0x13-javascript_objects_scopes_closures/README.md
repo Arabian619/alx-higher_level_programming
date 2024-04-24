@@ -1,0 +1,1 @@
+Javascrip on scopes
